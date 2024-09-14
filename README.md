@@ -22,7 +22,7 @@ cd Headless
 ```
 Install dependencies
 ```
-npm install bedrock-protocole prismarine-auth ip
+npm install bedrock-protocol prismarine-auth ip
 ```
 Go to start folder
 ```
