@@ -10,7 +10,7 @@ Working perfectly on **Node.JS v20.14.0**, but sure you can use old versions of 
 *You can see supported MC versions [here](https://github.com/PrismarineJS/bedrock-protocol/tree/master?tab=readme-ov-file#features).*
 
 ## Install
-If you're not installed [Node.JS](https://nodejs.org/), do it now
+If you haven't installed [Node.JS](https://nodejs.org/) before, do it now
 
 Then, clone the repository
 ```
