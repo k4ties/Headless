@@ -1,0 +1,17 @@
+{
+    "proxy": {
+        "version": "1.21.20",
+        "port": 19132,
+        "maxPlayers": 1,
+        "xboxDisabled": false,
+        "worldName": "",
+           "motd": {
+              "field": "§l§dHeadless"
+           }
+    },
+
+    "server": {
+        "ip": "example.com",
+        "port": 19132
+    }
+}
