@@ -5,7 +5,7 @@ const ip = require('ip'),
 
 function startProxy(Relay){
     const relay = new Relay(relayParams);
-    relay.on('connect', player => console.log(player)/*connect_event(player)*/ );
+    relay.on('connect', player => connect_event(player) );
     relay.listen(console.log(`> Server is listening on ${ip.address()} : ${config.proxy.port} (${config.proxy.version})`));
 }
 
